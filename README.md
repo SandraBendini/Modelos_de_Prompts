@@ -31,7 +31,10 @@
 ✅ **Objetivo**:Elaborar um roteiro de treinamento por tópicos que poderá ser detalhado graedativamento com mais infomrações
 ---
     ### 🔹 - Prepare um roteiro em marckdown com tópicos para um treinamento em Python do básico ao avançado orientando a instalação e utilizaçãod dos softwares necessários, explicações dos comandos e sintaxes Python e exemplos de exercícios.
-      ### -- O  chagpt irá gerar os vários tópicos para formatar o treinamento. Peça o detalhamento de cada tópico até detalhar até o nível mais adequado/esperado.
+
+---
+
+ -- O  chagpt irá gerar os vários tópicos para formatar o treinamento. Peça o detalhamento de cada tópico até detalhar até o nível mais adequado/esperado.
       
 ---
 
