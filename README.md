@@ -22,7 +22,7 @@
 
 ## 📌 Escolher lugares paradisíacos para passar o final de semana
 ✅ **Objetivo**: Identificar local iteressante para passar o final de semana na região próxima onde mora.
-       ### 🔹 -- Vodê é meu guia turistico e sugira-me lugares paradisíacos póximo à região de Brasília, Brasil para viajar no final de semana em uma viagem curta. Escolha lugares próximos que possam ter natureza exuberante (praia, cachoeiras ou montanhas) ou comércio interessante e inclua informações sobre localização, distancia aproximada, atividades no local, melhor região para a estadia, dicas práticas para aproveitar ao máximo.
+       🔹 Vodê é meu guia turistico e sugira-me lugares paradisíacos póximo à região de Brasília, Brasil para viajar no final de semana em uma viagem curta. Escolha lugares próximos que possam ter natureza exuberante (praia, cachoeiras ou montanhas) ou comércio interessante e inclua informações sobre localização, distancia aproximada, atividades no local, melhor região para a estadia, dicas práticas para aproveitar ao máximo.
 
 ---
 
