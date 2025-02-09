@@ -2,17 +2,17 @@
 ## 📌 Montagem de Roteiros de Turismo
 ✅ **Objetivo**: Elaborar um roteiro de viagem para um lugar/cidade/país junto com a IA, buscando um primeiro roteiro inicialmente sugerido e ir refinando-o com alguns ajustes conforme for questionando a IA.
 ---
-       🔹  Vodê é meu guia turistico. Prepare um roteiro de 8 dias por <<lugar pretendido>> escolhendo visitar as melhores cidades, escolhendo permanecer em cada cidade tempo suficiente para visitar as atrações turisticas mais importantes informando para cada uma
-          escolha uma praia bonita se possível, 
-          inclua cafés escondidos mas bem indicados para os turistas,
-          recomende vicências culturais para imersão local,
-          sugira atividades únicas fora do comum,
-          dê dicas práticas para economizar e aproveitar,
-          pratos típicos do local,
-          restaurantes mais indicados,
-          melhor região para se hospedar,
-          fatos históricos importantes,
-          lugares paradisiacos,
+       Vodê é meu guia turistico. Prepare um roteiro de 8 dias por <<lugar pretendido>> escolhendo visitar as melhores cidades, escolhendo permanecer em cada cidade tempo suficiente para visitar as atrações turisticas mais importantes informando para cada uma
+          🔹  escolha uma praia bonita se possível, 
+          🔹  inclua cafés escondidos mas bem indicados para os turistas,
+          🔹  recomende vicências culturais para imersão local,
+          🔹  sugira atividades únicas fora do comum,
+          🔹  dê dicas práticas para economizar e aproveitar,
+          🔹  pratos típicos do local,
+          🔹  restaurantes mais indicados,
+          🔹  melhor região para se hospedar,
+          🔹  fatos históricos importantes,
+          🔹  lugares paradisiacos (praias, cachoeiras, parques, montanhas)
           
 ---
 
