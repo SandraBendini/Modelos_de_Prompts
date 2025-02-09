@@ -29,22 +29,11 @@
 
 ## 📌 Geração de um Roteiro para um Treinamento em Python
 ✅ **Objetivo**:Elaborar um roteiro de treinamento por tópicos que poderá ser detalhado graedativamento com mais infomrações
+---
     ### 🔹 - Prepare um roteiro em marckdown com tópicos para um treinamento em Python do básico ao avançado orientando a instalação e utilizaçãod dos softwares necessários, explicações dos comandos e sintaxes Python e exemplos de exercícios.
       ### -- O  chagpt irá gerar os vários tópicos para formatar o treinamento. Peça o detalhamento de cada tópico até detalhar até o nível mais adequado/esperado.
       
 ---
-
-### 🔹 Nível 1 - Fundamentos do Python (1 a 2 semanas)
-
-
-
-🔹 **Tópicos**:
-- Instalação do Python e configuração do ambiente (VS Code, PyCharm, Jupyter)
-- - **Instalação do Python**:
-    - Acesse o site oficial do Python ([python.org](https://www.python.org/))
-    - Baixe a versão mais recente compatível com seu sistema operacional
-
-
 
   
 ## 📌 Analise de Planilha
