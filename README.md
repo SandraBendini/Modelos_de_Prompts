@@ -27,10 +27,10 @@
 
 ---
 
-## 📌 Geração de um Roteiro para um Treinamento em Python
+## 📌 Geração de um Roteiro para um Treinamento em <<<alguma linguagem pretendida>> 
 ✅ **Objetivo**:Elaborar um roteiro de treinamento por tópicos que poderá ser detalhado graedativamento com mais infomrações
 ---
-    ### 🔹 - Prepare um roteiro em marckdown com tópicos para um treinamento em Python do básico ao avançado orientando a instalação e utilizaçãod dos softwares necessários, explicações dos comandos e sintaxes Python e exemplos de exercícios.
+    ### 🔹 - Prepare um roteiro em marckdown com tópicos para um treinamento em <<<alguma linguagem pretendida>> do básico ao avançado orientando a instalação e utilizaçãod dos softwares necessários, explicações dos comandos e sintaxes e exemplos de exercícios.
 
 ---
 
