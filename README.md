@@ -35,9 +35,3 @@
 ---
 
  -- O  chagpt irá gerar os vários tópicos para formatar o treinamento. Peça o detalhamento de cada tópico até detalhar até o nível mais adequado/esperado.
-      
----
-
-  
-## 📌 Analise de Planilha
-## 📌 Analise de Planilha
