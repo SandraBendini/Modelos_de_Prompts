@@ -35,3 +35,63 @@
 ---
 
  -- O  chagpt irá gerar os vários tópicos para formatar o treinamento. Peça o detalhamento de cada tópico até detalhar até o nível mais adequado/esperado.
+          
+---
+
+## 📌 Simplificar ideias complexas
+✅ **Objetivo**: Arpresentar informações sobre um tópico de forma mais simples.
+---
+       🔹 Explique [tópico] em uma forma mais simples.
+
+---
+
+
+## 📌 Obtenhas ideias para a criação de conteúdos.
+✅ **Objetivo**: Obtenhas ideias para a criação de conteúdos.
+---
+       🔹 Tenha ideias de conteúdo para [seu tópico].
+
+---
+          
+---
+
+## 📌 Teste seu conhecimento
+✅ **Objetivo**: Teste seu conhecimento
+---
+       🔹 Dê-me um pequeno teste sobre [tópico].
+---
+
+## 📌Mude o tom de sua escrita
+✅ **Objetivo**: Mude o tom de sua escrita
+---
+       🔹 Altere o tom de escrita do texto abaixo para [estilo].
+
+---
+
+## 📌 Revise o seu texto
+✅ **Objetivo**: Solicitar para ser feito correção em sua redação
+---
+       🔹 Critique minha redação como se fosse [função]
+
+---
+
+## 📌 Criar um plano de refeição semanal.
+✅ **Objetivo**: Criar um plano de refeição semanal.
+---
+       🔹 Crie um plano de refeição semanal para uma pessoa com tres refeições diárias.
+
+---
+
+## 📌Programar um dia de trabalho
+✅ **Objetivo**: Criar uma rotina diária correta frisando algumas tarefas importantes
+---
+       🔹Ajude-me a programar meu dia tenho [inserir reunião] e [tarefas] para fazer.
+
+---
+
+## 📌 Reduzir parágrafos grandes
+✅ **Objetivo**:Simplificar um texto para ficar mais ágil sua leitura.
+---
+       🔹 Resuma este paragrafo em tópicos.
+
+---
