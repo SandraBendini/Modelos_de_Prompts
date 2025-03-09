@@ -39,7 +39,7 @@
 ---
 
 ## 📌 Simplificar ideias complexas
-✅ **Objetivo**: Arpresentar informações sobre um tópico de forma mais simples.
+✅ **Objetivo**: Apresentar informações sobre um tópico de forma mais simples.
 ---
        🔹 Explique [tópico] em uma forma mais simples.
 
